@@ -1,8 +1,8 @@
-# [![Open Sol](https://open-sol.github.io/logo-small.svg)](https://open-sol.github.io/)
+# [![Open Sol](https://191512.xyz/logo-small.svg)](https://191512.xyz/)
 
 We make internet things.
 
-[Website](https://open-sol.github.io/)
+[Website](https://191512.xyz/)
 
 ## Members
 
@@ -10,4 +10,4 @@ We make internet things.
 
 ## Copyright
 
-All our projects are available under [The Sol License](https://open-sol.github.io/license).
+All our projects are available under [The Sol License](https://191512.xyz/license).
