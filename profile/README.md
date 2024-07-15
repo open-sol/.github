@@ -1,5 +1,3 @@
-# [![Open Sol](https://191512.xyz/logo-small.svg)](https://191512.xyz/)
-
 We make internet things.
 
 [Website](https://191512.xyz/)
