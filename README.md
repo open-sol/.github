@@ -5,7 +5,3 @@ We make internet things.
 ## Members
 
 [san-s-on](https://github.com/san-s-on)
-
-## Copyright
-
-All our projects are available under [The Sol License](https://191512.xyz/license).
