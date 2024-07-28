@@ -6,7 +6,7 @@
 
 [san-s-on](https://github.com/san-s-on)
 
----
+## Copyright
 
 Public domain.
 
